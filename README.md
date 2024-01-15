@@ -1,3 +1,2 @@
 # QuarkusGitHub
-Test Repository to test the Github App Integration in Quarkus.
-Test
+This repository is used to test various webhooks and events.
